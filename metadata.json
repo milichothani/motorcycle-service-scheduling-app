@@ -1,0 +1,5 @@
+{
+  "name": "Corner Tuned Motorcycles Workshop App",
+  "description": "A comprehensive workshop management and customer interaction application for Corner Tuned Motorcycles. It handles service bookings, invoicing, and provides tech stack suggestions powered by AI.",
+  "requestFramePermissions": []
+}
